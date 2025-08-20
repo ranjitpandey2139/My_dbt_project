@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: emp_source
+    database: new_data
+    schema: dbo
+    tables:
+      - name: jobs_details
+ 

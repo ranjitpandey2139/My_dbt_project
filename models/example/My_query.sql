@@ -5,5 +5,8 @@
 -- from student
 -- where std_city like '%UP%'
 
+-- select * from jobs_details
+-- where employee_residence like 'China'
+
 select * from jobs_details
-where employee_residence like 'China'
+where employee_residence like 'France'
